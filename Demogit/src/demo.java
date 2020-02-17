@@ -1,6 +1,6 @@
 
 public class demo {
 public void testdata(){
-	System.out.println();
+	System.out.println("git");
 }
 }
